@@ -19,7 +19,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 2. Get Session ID
 Click on Pairing Code To Get Session ID To Start The Evil-MD If Getting Error Use VPN
 
-<a href='https://evilmd.onrender.com' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Pairing Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://khanmdx.onrender.com' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Pairing Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 DEPLOY TO HEROKU
 Follow The Steps To Deploy On Heroku
