@@ -7,7 +7,6 @@ Overall Performance Improved.
 </details>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://imgur.com/gallery/hh-qndddKb#/t/jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
