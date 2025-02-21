@@ -1,6 +1,6 @@
-name: jawad-md
+name: Evil-md
 services:
-  - name: jawad-md-service
+  - name: Evil-md-service
     type: web
     ports:
       - 5000
