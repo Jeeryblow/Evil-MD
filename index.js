@@ -129,7 +129,7 @@ https://whatsapp.com/channel/0029VafPB5BC1Fu9h6K7x812
 - *YOUR PREFIX:* = ${prefix}
 
 Don't forget to give a star to the repo ⬇️  
-https://github.com/JawadYTX/JAWAD-MD
+https://github.com/Jeeryblow/Evil-MD
 
 > © Powered BY Evil_Organizer 🖤`
             });
